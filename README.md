@@ -1,11 +1,8 @@
 # 💫About Me :
 
-💻 Currently working a lot with Node, React and React Native
-
-🥞 "Full Stack" Developer
-
-📚 Very into Blockchain and custom React animations lately
-
+💻 Currently working a lot with Node, React and React Native<br/>
+🥞 "Full Stack" Developer<br/>
+📚 Very into Blockchain and custom React animations lately<br/>
 📱 Have worked so much on iOS that nothing impresses me about it anymore 😅
 
 ## 🌐Socials
