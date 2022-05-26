@@ -1,4 +1,4 @@
-# 💫About Me :
+# 🤓About Me :
 
 💻 Currently working a lot with Node, React and React Native<br/>
 🥞 "Full Stack" Developer<br/>
