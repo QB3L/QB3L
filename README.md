@@ -1,8 +1,8 @@
 # 🤓About Me :
 
-💻 Currently working a lot with Node, React and React Native<br/>
+💻 Currently working a lot with React, C# and CapacitorJS<br/>
 🥞 "Full Stack" Developer<br/>
-📚 Very into Blockchain and custom React animations lately<br/>
+📚 Following Blockchain and custom React animations lately<br/>
 📱 Have worked so much on iOS that nothing impresses me about it anymore 😅
 
 ## 🌐Socials
